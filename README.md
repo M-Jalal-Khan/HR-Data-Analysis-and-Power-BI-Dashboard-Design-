@@ -1,4 +1,4 @@
-# HR-Data-Analysis-and-Power-BI-Dashboard-Design-
+HR Data Analysis and Power BI Dashboard Design
 Project Overview
 This project involves the analysis of an HR dataset containing 1,480 employee records to derive actionable insights related to employee attrition and overall HR metrics. The objective was to clean, process the data, and create an interactive Power BI dashboard for effective visualization.
 
@@ -83,3 +83,4 @@ DAX
 Excel
 Contact
 For more information, please contact me at m.jalalkhanktk@gmail.com.
+
